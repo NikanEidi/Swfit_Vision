@@ -1,3 +1,2 @@
-import UIKit
-
-var greeting = "Hello, playground"
+// Print Output In terminal - NE
+print("Hello Test1")
