@@ -1,2 +1,3 @@
-// Print Output In terminal - NE
-print("Hello Test1")
+// Print Out - NE
+print("Hello lesson1")
+
