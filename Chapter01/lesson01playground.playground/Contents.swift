@@ -2,3 +2,4 @@
 print("Hello lesson1")
 
 print("Im arshak")
+print("Hi")
