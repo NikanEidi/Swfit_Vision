@@ -1,3 +1,3 @@
-import UIKit
+// Print Out - NE
+print("Hello lesson1")
 
-var greeting = "Hello, playground"
